@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bored",
+				"border-color"
+			],
+			[
+				"mae",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"u",
+				"u_login_payment"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"wid",
+				"column-width"
+			],
+			[
+				"width",
+				"column-width"
+			],
+			[
+				"te",
+				"text-shadow"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"bo",
+				"body\tTag"
+			],
+			[
+				"text-",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Sites/blog",
+		"/C/Sites/blog/app",
+		"/C/Sites/blog/app/assets",
+		"/C/Sites/blog/app/assets/stylesheets",
+		"/C/Sites/blog/app/views",
+		"/C/Sites/blog/app/views/pages",
+		"/C/Sites/blog/app/views/posts",
+		"/C/Sites/blog/config",
+		"/C/Sites/blog/config/environments",
+		"/D/trydjango19",
+		"/D/trydjango19/trydjango19"
+	],
+	"file_history":
+	[
+		"/C/Sites/blog/config/routes.rb",
+		"/C/Sites/blog/app/views/pages/about.html.erb",
+		"/C/Sites/blog/app/views/comments/_form.html.erb",
+		"/C/Sites/blog/app/controllers/posts_controller.rb",
+		"/C/Sites/blog/app/views/posts/show.html.erb",
+		"/C/Sites/blog/app/views/posts/index.html.erb",
+		"/C/Sites/blog/app/views/comments/_comment.html.erb",
+		"/C/Sites/blog/Gemfile",
+		"/C/Sites/blog/config/environments/development.rb",
+		"/C/Sites/blog/app/views/devise/sessions/new.html.erb",
+		"/C/Sites/blog/app/views/devise/shared/_links.html.erb",
+		"/C/Sites/blog/app/assets/stylesheets/application.css.scss",
+		"/C/Sites/blog/app/assets/stylesheets/_normalize.css.scss",
+		"/C/Users/Sonali/Desktop/i/sign_in.htm",
+		"/C/Sites/blog/app/views/layouts/application.html.erb",
+		"/C/Sites/blog/app/views/posts/new.html.erb",
+		"/C/Sites/blog/app/controllers/pages_controller.rb",
+		"/C/Sites/blog/app/controllers/comments_controller.rb",
+		"/C/Sites/blog/app/views/posts/_form.html.erb",
+		"/C/Sites/blog/app/models/post.rb",
+		"/C/Sites/blog/app/views/posts/edit.html.erb",
+		"/C/Sites/blog/app/views/posts/edit_html.erb",
+		"/C/Sites/blog/app/assets/stylesheets/application.html.scss",
+		"/C/Sites/movie_review/app/models/movie.rb",
+		"/C/Sites/movie_review/app/controllers/movies_controller.rb",
+		"/C/Sites/movie_review/app/views/layouts/application.html.erb",
+		"/C/Sites/movie_review/config/routes.rb",
+		"/C/Sites/movie_review/config/environments/development.rb",
+		"/C/Sites/movie_review/Gemfile",
+		"/D/angi/usage/src/app/app.module.ts",
+		"/D/angular/project1/src/styles.css",
+		"/D/angular/project1/src/app/app.module.ts",
+		"/D/angular/project1/src/app/home/home.component.ts",
+		"/D/angular/project1/src/app/app.component.ts",
+		"/D/angular/project1/src/app/home/home.component.html",
+		"/D/angular/project1/src/app/app.component.css",
+		"/D/angular/project1/src/index.html",
+		"/C/Users/Sonali/Desktop/i/a",
+		"/C/Users/Sonali/Desktop/i/u_login_profile.htm",
+		"/C/Users/Sonali/Desktop/i/u_login_payment.htm",
+		"/C/Users/Sonali/Desktop/i/map.htm",
+		"/C/Users/Sonali/Desktop/i/ruby.htm",
+		"/C/Users/Sonali/Documents/ok.html",
+		"/C/Users/Sonali/Documents/side.html",
+		"/C/Users/Sonali/Documents/index.html",
+		"/C/Users/Sonali/Documents/Header.html",
+		"/C/Users/Sonali/Documents/GitHub/test_app/app/models/ajs1.htm",
+		"/C/Users/Sonali/Desktop/i/u_login.htm",
+		"/C/Users/Sonali/Desktop/i/d_signin",
+		"/C/Users/Sonali/Desktop/i/d_login_profile.htm",
+		"/C/Users/Sonali/Desktop/i/d_login_history.htm",
+		"/C/Users/Sonali/Desktop/i/HOMEPAGE1.htm",
+		"/C/Users/Sonali/Desktop/i/reprt.pdf",
+		"/C/Users/Sonali/Desktop/i/edit_profile.htm",
+		"/C/Users/Sonali/Desktop/i/about.htm",
+		"/C/Users/Sonali/Desktop/i/d_login.htm",
+		"/C/Users/Sonali/Desktop/i/dropdown.htm",
+		"/C/Users/Sonali/Desktop/i/after_user_login.html",
+		"/C/Users/Sonali/Desktop/i/afterlogin.htm",
+		"/C/Users/Sonali/Desktop/i/u_login_ridesfare.htm",
+		"/C/Users/Sonali/Desktop/i/credit.htm",
+		"/C/Users/Sonali/Desktop/i/u_login_trips.htm",
+		"/C/Users/Sonali/Desktop/i/d_login_driverdetails.htm",
+		"/C/Users/Sonali/Desktop/i/driver_sign_up_form.html",
+		"/C/Users/Sonali/Desktop/i/user_profile.htm",
+		"/C/Users/Sonali/Desktop/i/driver_sign_up_form.c",
+		"/C/Users/Sonali/Desktop/i/d_signin.htm",
+		"/C/Users/Sonali/Desktop/i/datetime.htm",
+		"/C/Users/Sonali/Desktop/i/login_page.htm",
+		"/C/Users/Sonali/Desktop/i/book_cab.htm",
+		"/C/Users/Sonali/Desktop/i/google_map.htm",
+		"/C/Users/Sonali/Desktop/i/nav_bar.html",
+		"/C/Users/Sonali/Desktop/i/HOMEPAGE2.htm",
+		"/C/Users/Sonali/Desktop/fifth.jpg",
+		"/C/Users/Sonali/Desktop/first.jpg",
+		"/C/Users/Sonali/Desktop/third.jpg",
+		"/C/Users/Sonali/Desktop/second.png",
+		"/C/Users/Sonali/Desktop/seventh.jpg",
+		"/C/Users/Sonali/Desktop/sixth.jpg",
+		"/C/Users/Sonali/Desktop/fourth.jpg",
+		"/C/Users/Sonali/Desktop/HOMEPAGE1.htm",
+		"/C/Users/Sonali/Desktop/homepage.htm",
+		"/C/Users/Sonali/Desktop/6e609595.jpg",
+		"/C/Users/Sonali/Desktop/i/css1.htm",
+		"/C/Users/Sonali/Desktop/style.css",
+		"/C/Users/Sonali/Desktop/index.html",
+		"/C/Users/Sonali/Desktop/i/css1.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"favicon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango19.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
